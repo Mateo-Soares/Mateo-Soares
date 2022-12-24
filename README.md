@@ -2,8 +2,8 @@
 
 
 
-- 🌱 Estudando: Python.
-- 🌱 Sei o básico de: HTML5, CSS3 e JavaScript.
+- 🌱 Estudando: C#.
+- 🌱 Sei o básico de: HTML5, CSS3, JavaScript e Python.
 
 <div style="inline_block">
   <a href="https://github.com/MattZin13">
