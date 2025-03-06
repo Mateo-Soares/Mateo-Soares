@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando: C#.
+- 🌱 Estudando: Java.
 - 🌱 Sei o básico de: HTML5, CSS3, JavaScript e Python.
 
 <div style="inline_block">
